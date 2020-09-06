@@ -3,7 +3,6 @@ Experimenting with IoT using android smartphone sensors and streaming the genera
 
 ![Architecture](architecture.png)
 
-> For detailed description of this project read my [Medium post](https://itnext.io/real-time-iot-data-streaming-from-old-smartphone-e9fbee6ecc91).
 
 ## Requirements:
 - [Docker Engine](https://docs.docker.com/get-docker/) version 19.03 or newer
